@@ -3,6 +3,8 @@ Efecto breath en un LED
 
 Elementos necesarios:                                
 -Diodo led; +(--🞂|--)-
+
+
 -Resistencia de 330 Ohm;  (--MWM--)
 
 
